@@ -5,7 +5,7 @@
 - 📫 How to reach me: Discord nekomonci
 - ⚡ Fun fact: im just a junior developer :)
 
-If you are free and playing minecraft please consider to playing my server
+### If you are free and playing minecraft please consider to playing my server
 - play.spacenode.my.id
 - mc.orume.my.id
 
