@@ -2,18 +2,14 @@
 <!--
 <h3 align="center">An Programmer From Indonesia 🇮🇩</h3>
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nekomonci12&label=Profile%20views&color=0dac1d&style=flat" alt="nekomonci12" height="30"/> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nekomonci12&label=Profile%20views&color=0dac1d&style=flat" alt="nekomonci12" height="25"/> </p>
+<!--
 - 🔭 I’m currently working on **RaznarLab**
-
 - 🌱 I’m currently learning **Laravel, Java, and C++**
-
 - 💬 Ask me about **Minecraft, Websites, and Games**
-
 - 📫 How to reach me **monci@yuemi.org**
-
 - ⚡ Fun fact **Im just a junior developer :)**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-tamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-tamir" height="30" width="40" /></a>
